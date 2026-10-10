@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛡️ Python Packet Threat Detector
 
 A Python-based network monitoring project that captures packets, identifies common network protocols, detects basic suspicious activity, and stores packet information and alerts in an SQLite database.
@@ -48,3 +49,7 @@ packet_threat_detector/
 ├── packet_detector.log
 ├── requirements.txt
 └── README.md
+=======
+# packet-threat-detection
+Python-based network packet monitoring and basic threat detection dashboard.
+>>>>>>> 06fc720c7a085519cd0da835e5e5ce7cbebdc72f
