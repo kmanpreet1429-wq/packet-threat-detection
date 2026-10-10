@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# Local database
+packets.db
+
+# Captured packet files
+captures/*
+!captures/.gitkeep
